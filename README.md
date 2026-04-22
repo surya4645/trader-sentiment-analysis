@@ -1,17 +1,17 @@
 # 📊 Trader Performance vs Market Sentiment Analysis
 
 ## 📌 Objective
-This project analyzes the relationship between trader performance and Bitcoin market sentiment (Fear vs Greed Index).
+To analyze how Bitcoin market sentiment (Fear vs Greed) affects trader behavior and profitability.
 
 ## 📁 Datasets Used
 - Historical Trader Data (Hyperliquid)
 - Bitcoin Fear & Greed Index
 
-## ⚙️ Steps Performed
-- Data Cleaning and Preprocessing
-- Merging datasets based on date
-- Exploratory Data Analysis (EDA)
-- Visualization using Matplotlib & Seaborn
+## ⚙️ Process
+1. Data Cleaning and Preprocessing
+2. Merging datasets based on date
+3. Exploratory Data Analysis (EDA)
+4. Visualization using Matplotlib & Seaborn
 
 ## 📊 Key Insights
 - Traders perform better during Greed periods
@@ -26,6 +26,4 @@ This project analyzes the relationship between trader performance and Bitcoin ma
 - Seaborn
 
 ## 📌 Conclusion
-Market sentiment has a significant impact on trading behavior and profitability.
-
----
+Market sentiment significantly influences trading behavior and profitability.
